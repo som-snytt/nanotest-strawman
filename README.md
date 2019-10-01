@@ -145,7 +145,8 @@ object SomethingTest extends BasicTestSuite {
 }
 ```
 
-That's all you need to know.
+"Beauty is truth, truth beauty,—that is all
+    Ye know on earth, and all ye need to know."
 
 ## License
 
